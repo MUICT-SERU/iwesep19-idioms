@@ -11,7 +11,7 @@ Put them together, Pythonic Idiom is is the way to write a set of code to execut
 
 
 The idiomatic way of writing code would help on increase efficiency of the code as following figure:
-
+![image test](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/Picture1.png){:height="20%" width="20%"}
 
 
 ### Why Python?
