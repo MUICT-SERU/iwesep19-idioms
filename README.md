@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/MUICT-SERU/iwesep19-idioms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-test2 
-
 
 ### Pythonic Idioms
 
@@ -11,10 +9,12 @@ Pythonic is defined in python.org glossary part as the code which closely follow
 Idioms, generally, defined as a phrase that have particular meaning that cannot be directly translate from each word.
 Put them together, Pythonic Idiom is is the way to write a set of code to execute particular function by following the principle of Python language.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MUICT-SERU/iwesep19-idioms/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Why Python?
 
-### Support or Contact
+- Python  programming  language  ranks  in  the  top  three  most  used  by programmers due to [rank by GitHub](https://octoverse.github.com/projects#languages)
+- Stack Overflow predicts that it will be the most used in 2020.
+- The most active repository on GitHub is “TensorFlow” and it uses Python.
+
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
