@@ -1,7 +1,8 @@
 ## Visualizing the Usage and Evolution of Pythonic Idioms Over Time: A Case Study of ‘the with open’ Idiom
 
-[Home](https://muict-seru.github.io/iwesep19-idioms/)
+## [Home](https://muict-seru.github.io/iwesep19-idioms/) | [Experiment](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/Experiment.md)
 
+## Introduction
 
 ### Pythonic Idioms
 
