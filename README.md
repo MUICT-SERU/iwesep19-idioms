@@ -105,3 +105,17 @@ Answer: We found that two projects (Beaker and DFHack) contain removals of non-i
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG2A.jpg?raw=true)
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG2B.jpg?raw=true)
 
+#### Project: TShock
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/TShockG2A.jpg?raw=true)
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/TShockG2B.jpg?raw=true)
+
+#### Project: DFHack
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/DFHackG2A.jpg?raw=true)
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/DFHackG2B.jpg?raw=true)
+
+#### Project: iPython
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/iPython2A.jpg?raw=true)
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/iPythonG2B.jpg?raw=true)
+
+      
+
