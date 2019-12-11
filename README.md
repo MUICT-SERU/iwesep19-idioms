@@ -1,6 +1,16 @@
 # Visualizing the Usage and Evolution of Pythonic Idioms Over Time: A Case Study of ‘the with open’ Idiom
 
 
+Tattiya Sakulniwat∗, Raula Gaikovina Kula†, Chaiyong Ragkhitwetsagul∗,Morakot Choetkiertikul∗, Thanwadee Sunetnanta∗, Dong Wang†, Takashi Ishio†and Kenichi Matsumoto†
+
+*Faculty of Information and Communication Technology (ICT), Mahidol University
+
+†Nara Institute of Science and Technology (NAIST)
+
+Email: tattiya.sakul@gmail.com,{chaiyong.rag, morakot.cho, thanwadee.sun}@mahidol.ac.th{raula-k, wang.dong.vt8, ishio, matumoto}@is.naist.jp
+
+
+
 ## Introduction
 
 ### Pythonic Idioms
