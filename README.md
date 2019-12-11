@@ -1,6 +1,6 @@
 ## Visualizing the Usage and Evolution of Pythonic Idioms Over Time: A Case Study of ‘the with open’ Idiom
 
-## [Home](https://muict-seru.github.io/iwesep19-idioms/) | [Experiment](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/Experiment.md)
+## [Home](https://muict-seru.github.io/iwesep19-idioms/)
 
 ## Introduction
 
@@ -82,9 +82,26 @@ TABLE HERE
 
 Answer: We found that 3 out of the 4 selected projects adopt the with open idiom. However, the amount of adoption differs. One project only contains the idiom without the non-idiomatic counterpart. The other two projects have non-idiomatic code more at the beginning and idiomatic code more from the middle to the last release. 
 
+
+#### Project: Beaker
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG1.jpg?raw=true)
+
+
+#### Project: TShock
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/TShockG1.jpg?raw=true)
+
+#### Project: DFHack
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/DFHackG1.jpg?raw=true)
+
+#### Project: iPython
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/IPythonG1.jpg?raw=true)
+
 ### Research Question 2: Do the developers fix their non-idiomatic file reading statements?
 
-Answer: We found that two projects (Beaker and DFHack) contain removals   of non-idiomatic code along with the inclusions of the with open idiom.  Nonetheless, there are some projects that also introduce more non-idiomatic file reading statements (TShock and IPython).
+Answer: We found that two projects (Beaker and DFHack) contain removals of non-idiomatic code along with the inclusions of the with open idiom.  Nonetheless, there are some projects that also introduce more non-idiomatic file reading statements (TShock and IPython).
 
 
+#### Project: Beaker
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG2A.jpg?raw=true)
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG2B.jpg?raw=true)
 
