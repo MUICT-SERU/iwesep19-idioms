@@ -59,7 +59,7 @@ with open(‘file.txt’) as f:
 
 Use CCGrep, pattern matching detection tool with non-file name relying, to extract the occurrences of Idiomatic Python code and Non-idiomatic code in the projects.
 
-IMAGE HERE
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/da%20final.png?raw=true)
 
 
 ## Studied Projects
@@ -77,4 +77,11 @@ TABLE HERE
 
 
 ## Result
+
+### Research Question 1: Do developers adopt the idiom for file reading statements over time?
+
+Answer: We found that 3 out of the 4 selected projects adopt the with open idiom. However, the amount of adoption differs. One project only contains the idiom without the non-idiomatic counterpart. The other two projects have non-idiomatic code more at the beginning and idiomatic code more from the middle to the last release. 
+
+
+
 
