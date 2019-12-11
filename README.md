@@ -83,6 +83,9 @@ TABLE HERE
 Answer: We found that 3 out of the 4 selected projects adopt the with open idiom. However, the amount of adoption differs. One project only contains the idiom without the non-idiomatic counterpart. The other two projects have non-idiomatic code more at the beginning and idiomatic code more from the middle to the last release. 
 
 
+The scatter plot graphs below show the occurrence of Idiomatic and NOn-idiomatic codes through time. The red dot represents the occurrence of Non-idiomatic code and the green dots represents the Idiomatic one. X-axis adopts date of development of the code and Y-axis is for package name hosted in the project.
+
+
 #### Project: Beaker
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG1.jpg?raw=true)
 
@@ -101,6 +104,9 @@ Answer: We found that 3 out of the 4 selected projects adopt the with open idiom
 Answer: We found that two projects (Beaker and DFHack) contain removals of non-idiomatic code along with the inclusions of the with open idiom.  Nonetheless, there are some projects that also introduce more non-idiomatic file reading statements (TShock and IPython).
 
 
+Each project has two bar graphs visualizing the number of usage of both Idiomatic and Non-idiomatic codes in each file of the project. The red bar stands for Non-idiomatic code usage and the green bar is for Idiomatic code usage. X-axis represents each file name in the whole project while Y-axis shows the number of time both style of codes occur.
+
+
 #### Project: Beaker
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG2A.jpg?raw=true)
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/BeakerG2B.jpg?raw=true)
@@ -114,8 +120,11 @@ Answer: We found that two projects (Beaker and DFHack) contain removals of non-i
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/DFHackG2B.jpg?raw=true)
 
 #### Project: iPython
-![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/iPython2A.jpg?raw=true)
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/iPythonG2A.jpg?raw=true)
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/iPythonG2B.jpg?raw=true)
 
-      
 
+## Further Information
+Full paper: https://muict-seru.github.io/files/iwesep19_Tattiya.pdf
+More of SERU publications!: https://muict-seru.github.io/publications.html
+     
