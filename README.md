@@ -82,6 +82,9 @@ TABLE HERE
 
 Answer: We found that 3 out of the 4 selected projects adopt the with open idiom. However, the amount of adoption differs. One project only contains the idiom without the non-idiomatic counterpart. The other two projects have non-idiomatic code more at the beginning and idiomatic code more from the middle to the last release. 
 
+### Research Question 2: Do the developers fix their non-idiomatic file reading statements?
+
+Answer: We found that two projects (Beaker and DFHack) contain removals   of non-idiomatic code along with the inclusions of the with open idiom.  Nonetheless, there are some projects that also introduce more non-idiomatic file reading statements (TShock and IPython).
 
 
 
