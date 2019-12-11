@@ -1,6 +1,5 @@
-## Visualizing the Usage and Evolution of Pythonic Idioms Over Time: A Case Study of ‘the with open’ Idiom
+# Visualizing the Usage and Evolution of Pythonic Idioms Over Time: A Case Study of ‘the with open’ Idiom
 
-## [Home](https://muict-seru.github.io/iwesep19-idioms/)
 
 ## Introduction
 
@@ -126,5 +125,7 @@ Each project has two bar graphs visualizing the number of usage of both Idiomati
 
 ## Further Information
 Full paper: https://muict-seru.github.io/files/iwesep19_Tattiya.pdf
+
+
 More of SERU publications!: https://muict-seru.github.io/publications.html
      
