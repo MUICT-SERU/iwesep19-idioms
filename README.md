@@ -22,7 +22,7 @@ Put them together, Pythonic Idiom is is the way to write a set of code to execut
 
 The idiomatic way of writing code would help on increase efficiency of the code as following figure:
 
-![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/Compare.png?raw=true)
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/Compare.png?raw=true)
 
 
 
@@ -81,8 +81,12 @@ Use CCGrep, pattern matching detection tool with non-file name relying, to extra
 
 4. Tshock: a toolbox for Terraria servers and communities
 
-
-TABLE HERE
+|    Project    |    Releases    |    Contributors    |    Start   Date    |    End   Date    |
+|:-------------:|:--------------:|:------------------:|--------------------|------------------|
+|     Beaker    |       432      |         63         |    12/08/2006      |    21/05/2019    |
+|     DFHack    |       123      |         112        |    24/02/2010      |    28/12/2018    |
+|    iPython    |       94       |         608        |    14/09/2008      |    03/07/2019    |
+|    TShock     |    70          |    62              |    03/06/2013      |    01/04/2019    |
 
 
 ## Result
